@@ -5,6 +5,6 @@ y si lo tienes lo siguiente que deberias hacer es ir al archivo "ola.py" y copia
 
 Y en caso de no tener python lo que deberiamos hacer es ir a la aplicacion a python y descargarlo https://www.python.org/download/releases/3.1/
 ejecutar el programa que acabamos de descargar y instalar todo, luego de instalar todo hacemos lo siguiente, vamos al archivo "ola.py" 
- y copiamos y pegamos lo que sale ahi en nuestra aplicacion de python.
+ y copiamos y pegamos lo que sale ahi en nuestra aplicacion de python y lo ejectuamos.
 
 
